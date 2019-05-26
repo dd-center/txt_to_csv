@@ -1,6 +1,12 @@
 # txt_to_csv
 将弹幕文件从txt转成csv
 
+Prerequest:
+
+```
+Python3, panda, numpy
+```
+
 使用：
 
 下载仓库里的代码，将bilibili-vtuber-danmaku-master放在和代码同一个目录下，运行：
